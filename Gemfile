@@ -71,6 +71,6 @@ group :test do
 
 end
 
-gem "rack-cors"
+gem 'rack-cors', '~> 1.1', '>= 1.1.1'
 
 gem 'concurrent-ruby', '1.3.4'
